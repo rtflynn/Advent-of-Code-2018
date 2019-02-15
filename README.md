@@ -2,4 +2,4 @@ Welcome to my 2018 Advent of Code solutions.  This is my first year trying Adven
 
 The problems themselves can be found at https://adventofcode.com/2018 .  I have to say here that they're written very playfully, and I'd recommend anyone who's stumbled onto this page but who hasn't seen the AoC challenge to give this link a visit!
 
-I don't plan on discussing individual solutions here - however, I'm happy to explain a particular solution if someone has a question.
+Solutions are written mostly in Python, with one or two in C++.  I don't plan on discussing individual solutions here - however, I'm happy to explain a particular solution if someone has a question.
